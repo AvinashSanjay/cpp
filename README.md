@@ -1,7 +1,7 @@
 # c++
 C++ projects
 
-First Clone this repo by this command → git clone https://github.com/Hello-2006/cpp.git
+First Clone this repo by this command → git clone https://github.com/SnapAPP/cpp.git
 
 then type → cd cpp/
 
@@ -11,7 +11,7 @@ then Edit the test.cpp file
 
 after Finish your code open terminal in that directory 
 
-and type **first time only** → chmod +x run.py
+and type [_**first time only**_] → chmod +x run.py
 
 then → python3 run.py
 
