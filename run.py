@@ -2,7 +2,7 @@ import os
 import time
 
 os.system("cls")
-cmd = "g++ test.cpp"
+cmd = "g++ mr.smart.cpp"
 os.system(cmd)
 time.sleep(1)
 if (os.system(cmd) != 0):
